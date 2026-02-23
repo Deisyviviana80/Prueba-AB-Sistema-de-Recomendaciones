@@ -1,4 +1,4 @@
-# 📊 Análisis de Prueba A/B — Sistema de Recomendaciones
+# 📊 Análisis de Prueba A/B - Sistema de Recomendaciones
 
 ## Descripción del Proyecto
 
@@ -101,7 +101,7 @@ No se recomienda implementar el nuevo sistema de recomendaciones con los resulta
 pip install pandas scipy matplotlib seaborn jupyter
 
 # Abrir el notebook
-jupyter notebook AB_mejorado.ipynb
+jupyter notebook AB.ipynb
 ```
 
 ---
